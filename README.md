@@ -6,8 +6,6 @@ Welcome to the Analog Clock project! 🕒
 
 This repository is your gateway to mastering the art of web development with the magic trio - HTML, CSS, and JavaScript. We're here to take you on a journey through the intricate world of analog clocks while providing a hands-on experience with the power of setInterval.
 
-## My website is live here:
-https://analog-clocky.netlify.app/
 
 ## Features
 
