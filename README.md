@@ -18,8 +18,8 @@ This repository is your gateway to mastering the art of web development with the
 
 1. **Clone the Repository**: Begin by cloning this repository to your local machine using Git.
 
-    ```shell
-    git clone https://github.com/your-username/analog-clock.git
+    ```
+    git clone https://github.com/tayyab-004/analog-clock.git
     ```
 
 2. **Open `index.html`**: Navigate to the project folder and open `index.html` in your favorite web browser.
@@ -37,10 +37,6 @@ To contribute:
 3. Make your changes.
 4. Push your changes to your fork: `git push origin your-branch-name`.
 5. Create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
 
 ## Acknowledgments
 
